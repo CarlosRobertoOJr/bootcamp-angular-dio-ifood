@@ -1,0 +1,9 @@
+PROMPT DE COMANDO:
+
+DIR - LISTA TODAS AS PASTAS DO DIRETORIO
+cd + nome pasta - navega na pasta solicitado
+cd .. - Volta uma pasta
+cls - limpar o terminal
+mkdir + nome - Cria uma pasta com o nome solicitado
+del + nome - deleta os arquivos dentro da pasta
+rmdir + nome + /s /q - deletar a pasta

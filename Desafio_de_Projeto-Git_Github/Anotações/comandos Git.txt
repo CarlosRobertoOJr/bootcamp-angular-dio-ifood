@@ -1,0 +1,9 @@
+git init - inicia o repositorio
+git add - Iniciar versionamento
+git commit - Iniciar Commit
+ls - lista todas as pastas dos diretorios
+git remote add origin - Aciona repositorio remoto
+git remote -v - verifica as conexões remotas
+git push origin master - empurra para o github
+git pull origin master - Push arquivo do github
+git clone - clona um git do github
